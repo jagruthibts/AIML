@@ -11,3 +11,4 @@ plt.bar(data['day'],data['tip'])
 plt.show()
 plt.hist(data['total_bill'])
 plt.show()
+
